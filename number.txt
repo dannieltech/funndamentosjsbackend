@@ -1,0 +1,9 @@
+//number
+
+const meuNumero = 1;
+
+const segundoNumero = 4;
+
+const soma = meuNumero + segundoNumero;
+
+console.log(soma);
